@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dehwyy&layout=compact&theme=dark)](https://github.com/dehwyy/github-readme-stats)
 -  I’m currently working on [FullstackSocialWeb](https://github.com/dehwyy/FullstackSocial)
--  I’m currently learning web, cs
+-  I’m currently learning web, cs & yandex academy
