@@ -2,13 +2,6 @@
   <img src="octocats/mona-whisper.gif" width="40" height="40">
   Hi there!
 
-  <a href="https://twitch.tv/dehwyy">
-    <picture>
-      <source width="40" align="right" media="(prefers-color-scheme: dark)" srcset="icons/twitch-light.svg">
-      <img width="40" align="right" src="icons/twitch-dark.svg" />
-    </picture>
-  </a>
-  
   <a href="https://t.me/dehwyy">
     <picture>
       <source width="40" align="right" media="(prefers-color-scheme: dark)" srcset="icons/telegram-light.svg">
@@ -78,6 +71,6 @@
 
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> GitHub Stats</h1>
 <div>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dehwyy&layout=compact&show_icons=true&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea&hide=stars,prs,issues,contribs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehwyy&layout=compact&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea&hide=html,css,scss,python,javascript&exclude_repo=mondai,suisei,improve-it,shakai,solidnest-playground,kioku" />
+   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=dehwyy&layout=compact&show_icons=true&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea&hide=stars,prs,issues,contribs" />
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehwyy&layout=compact&theme=white&hide_border=true&icon_color=2a84ea&bg_color=00000000&text_color=2a84ea&hide=html,css,scss,python,javascript&exclude_repo=mondai,suisei,improve-it,shakai,solidnest-playground,kioku" />
 </div>
