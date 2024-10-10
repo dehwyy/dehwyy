@@ -17,7 +17,7 @@
 
 - [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. Communication implemented via [gRPC](https://grpc.io/), [NATS](https://nats.io/) (message broker), HTTP. [Rust](https://www.rust-lang.org/) and [Go](https://go.dev/) as backend languages/ [SvelteKit](https://kit.svelte.dev/) as frontend framework.
 
-- [🌌 kyomu](https://github.com/dehwyy/kyomu) - UI in terminal. It uses raw-mode, so everything should be reimplemented (f.e `ctrl+c` to quit program, `key` input). That mode gives much more control over terminal, thus pretty everything may be implemented. App uses abstractions like `scene`, `layout`, `component`. In core it uses `ansi` to manipulate text style, cursor visibility and its position, etc.
+- [🌌 kyomu](https://github.com/dehwyy/kyomu) - UI in terminal. It uses raw-mode, so all terminal built-in should be reimplemented. That mode gives much more control over terminal, thus it let you cook. App uses abstractions like `scene`, `layout`, `component`. In core it uses `ansi` to manipulate text style, cursor visibility and its position, etc.
 
 <h1><img src="octocats/mona-loading.gif" width="40" height="40"> Technologies & Tools</h1>
 
