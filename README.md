@@ -13,7 +13,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/2b8e6936-ee8d-495f-a0dd-de90dd07ce4e.svg)](https://wakatime.com/@2b8e6936-ee8d-495f-a0dd-de90dd07ce4e)
 
-<h2>Repositores</h2>
+<h2>Repositories</h2>
 
 - [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. Communication implemented via [gRPC](https://grpc.io/), [NATS](https://nats.io/) (message broker), HTTP. [Rust](https://www.rust-lang.org/) and [Go](https://go.dev/) as backend languages/ [SvelteKit](https://kit.svelte.dev/) as frontend framework.
 
