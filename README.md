@@ -15,7 +15,7 @@
 
 <h2>Repositories</h2>
 
-- [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. Communication implemented via [gRPC](https://grpc.io/), [NATS](https://nats.io/) (message broker), HTTP. [Rust](https://www.rust-lang.org/) and [Go](https://go.dev/) as backend languages/ [SvelteKit](https://kit.svelte.dev/) as frontend framework.
+- [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. Communication implemented via [gRPC](https://grpc.io/), [NATS](https://nats.io/), common HTTP. [Rust](https://www.rust-lang.org/) and [Go](https://go.dev/) as backend languages/ [SvelteKit](https://kit.svelte.dev/) and [Next](https://nextjs.org) as frontend framework.
 
 - [🌌 kyomu](https://github.com/dehwyy/kyomu) - UI in terminal. It uses raw-mode, so all terminal built-in should be reimplemented. That mode gives much more control over terminal, thus it let you cook. App uses abstractions like `scene`, `layout`, `component`.
 
