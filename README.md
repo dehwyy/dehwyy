@@ -15,7 +15,7 @@
 
 <h2>Repositories</h2>
 
-- [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. Communication implemented via [gRPC](https://grpc.io/), [NATS](https://nats.io/), HTTP. [Rust](https://www.rust-lang.org/) and [Go](https://go.dev/) as backend languages/ [SvelteKit](https://kit.svelte.dev/) and [Next](https://nextjs.org) as frontend framework.
+- [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app.
 
 - [🌌 kyomu](https://github.com/dehwyy/kyomu) - UI in terminal.
 
