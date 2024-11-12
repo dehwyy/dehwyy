@@ -55,7 +55,6 @@
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
 [![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
 [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
-[![pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)](#)
 
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> GitHub Stats</h1>
 <div>
