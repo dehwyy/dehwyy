@@ -15,7 +15,9 @@
 
 <h2>Repositories</h2>
 
-- [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app.
+- [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. It contains features like Sync/Async communication (***grpc, http / nats***), OAuth2 (***Github, Google, Discord***), Monitoring/Profiling (***Logging, Sentry***), own CLI, etc.
+ 
+- [💫 mugen](https://github.com/dehwyy/mugen) -(🔨 in ***DEV***). 1 more microservices-based app. Currently implementing services for streaming (like twitch, discord screen-share, etc.)
 
 - [🌌 kyomu](https://github.com/dehwyy/kyomu) - UI in terminal.
 
@@ -46,15 +48,9 @@
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
 [![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
-[![Jest](https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff)](#)
-[![Cypress](https://img.shields.io/badge/Cypress-69D3A7?logo=cypress&logoColor=fff)](#)
 [![GitHub Action](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
-
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
-[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](#)
-[![Fedora](https://img.shields.io/badge/Fedora-51A2DA?logo=fedora&logoColor=fff)](#)
-[![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](#)
 
 <h1><img src="octocats/octocat-squid.gif" width="40" height="40"> GitHub Stats</h1>
 <div>
