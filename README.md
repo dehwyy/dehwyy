@@ -26,8 +26,10 @@
 [![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)](#)
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![Typescript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)](#)
+[![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](#)
 
 [![Graphql](https://img.shields.io/badge/GrapQL-purple?logo=graphql&logoColor=fff)](#)
+[![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff)](#)
 [![NATS](https://img.shields.io/badge/NATS-blue?logo=natsdotio&logoColor=fff)](#)
 [![Kafka](https://img.shields.io/badge/Kafka-magenta?logo=apachekafka&logoColor=fff)](#)
 
@@ -46,7 +48,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)](#)
-[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
 
 [![GitHub Action](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)](#)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](#)
