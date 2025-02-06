@@ -17,7 +17,7 @@
 
 - [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. It contains features like Sync/Async communication (***grpc, http / nats***), OAuth2 (***Github, Google, Discord***), Monitoring/Profiling (***Logging, Sentry***), own CLI, etc.
  
-- [💫 mugen](https://github.com/dehwyy/mugen) -(🔨 in ***DEV***). 1 more microservices-based app. Currently implementing services for streaming (like twitch, discord screen-share, etc.)
+- [💫 acheron](https://github.com/dehwyy/acheron) -(🔨 in ***DEV***). 1 more microservices-based app. Currently implementing services for streaming (like twitch, discord screen-share, etc.)
 
 - [🌌 kyomu](https://github.com/dehwyy/kyomu) - UI in terminal.
 
