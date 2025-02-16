@@ -1,6 +1,6 @@
 <h1>
   <img src="octocats/mona-whisper.gif" width="40" height="40">
-  こんにちは！
+  Hello！
 
   <a href="https://t.me/dehwyy">
     <picture>
@@ -17,7 +17,7 @@
 
 - [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. It contains features like Sync/Async communication (***grpc, http / nats***), OAuth2 (***Github, Google, Discord***), Monitoring/Profiling (***Logging, Sentry***), own CLI, etc.
  
-- [💫 acheron](https://github.com/dehwyy/acheron) -(🔨 in ***DEV***). 1 more microservices-based app. Currently implementing services for streaming (like twitch, discord screen-share, etc.)
+- [💫 acheron](https://github.com/dehwyy/acheron) -(🔨 ***Working on***). 1 more microservices-based app. Currently implementing services for streaming (similar to Twitch, Discord screen-share, etc.)
 
 - [🌌 kyomu](https://github.com/dehwyy/kyomu) - UI in terminal.
 
@@ -27,6 +27,8 @@
 [![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white)](#)
 [![Typescript](https://img.shields.io/badge/TypeScript-informational?style=flat-square&logo=typescript&logoColor=ffffff&color=007acc)](#)
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)](#)
+[![C](https://img.shields.io/badge/C-4D53E8?style=flat-square&logo=c&logoColor=ffffff)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](#)
 
 [![Graphql](https://img.shields.io/badge/GrapQL-purple?logo=graphql&logoColor=fff)](#)
 [![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=fff)](#)
