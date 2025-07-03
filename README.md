@@ -1,6 +1,6 @@
 <h1>
   <img src="octocats/mona-whisper.gif" width="40" height="40">
-  Hello！
+  Hello！dehwyy.
 
   <a href="https://t.me/dehwyy">
     <picture>
@@ -13,13 +13,13 @@
 
 [![wakatime](https://wakatime.com/badge/user/2b8e6936-ee8d-495f-a0dd-de90dd07ce4e.svg)](https://wakatime.com/@2b8e6936-ee8d-495f-a0dd-de90dd07ce4e)
 
-<h2>Repositories</h2>
+<h2>Interesting repositories</h2>
 
-- [❄️ mafuyu](https://github.com/dehwyy/mafuyu) - Microservice app. It contains features like Sync/Async communication (***grpc, http / nats***), OAuth2 (***Github, Google, Discord***), Monitoring/Profiling (***Logging, Sentry***), own CLI, etc.
+- [❄️ mafuyu](https://github.com/dehwyy/mafuyu)
  
-- [💫 acheron](https://github.com/dehwyy/acheron) -(🔨 ***Working on***). 1 more microservices-based app. Currently implementing services for streaming (similar to Twitch, Discord screen-share, etc.)
+- [💫 acheron](https://github.com/dehwyy/acheron)
 
-- [🌌 kyomu](https://github.com/dehwyy/kyomu) - UI in terminal.
+- [🌌 kyomu](https://github.com/dehwyy/kyomu)
 
 <h1><img src="octocats/mona-loading.gif" width="40" height="40"> Technologies & Tools</h1>
 
