@@ -2,7 +2,7 @@
   <img src="octocats/mona-whisper.gif" width="40" height="40">
   Hello！dehwyy.
 
-  <a href="https://t.me/dehwyy">
+  <a href="https://t.me/egordehwyy">
     <picture>
       <source width="40" align="right" media="(prefers-color-scheme: dark)" srcset="icons/telegram-light.svg">
       <img width="40" align="right" src="icons/telegram-dark.svg" />
